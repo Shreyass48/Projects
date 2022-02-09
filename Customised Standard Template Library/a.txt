@@ -1,4 +1,0 @@
-Customised Generic Standard Template Library (STL)
-------------------------------------------
-This Project contains the generic implementation of Linear and
-Non-Linear Data structures with primary and as well as some extra functionality.
